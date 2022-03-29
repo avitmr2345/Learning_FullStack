@@ -1,0 +1,28 @@
+body {
+    background-color: #8eebf5;
+}
+h2 {
+    color: purple;
+}
+.paragraph {
+    background-color: yellow;
+}
+#list {
+    color: purple;
+}
+h1 {
+    border: 2px black solid;
+}
+div {
+    background-color: blue;
+    border: 5px dotted yellow;
+}
+input {
+    border: 2px solid rgb(144,0,0);
+}
+a {
+    color: red;
+}
+a:visited{
+    color: orange;
+}
